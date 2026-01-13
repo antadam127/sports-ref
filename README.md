@@ -3,10 +3,9 @@
 ### Directions
 
 - clone repo
-- npm i
-- change .env.template to .env
-- npm run dev
-- npx drizzle-kit studio (to view database)
+- npm i OR pnpm i
+- npm run dev OR pnpm dev
+- npm run studio OR pnpm studio (to view database)
 
 ### Exact steps done
 
